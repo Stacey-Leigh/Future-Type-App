@@ -1,7 +1,7 @@
 # typing-speed-test
 
 This template should help get you started developing with Vue 3 in Vite. \
-Link to the live app here: https://future-type-app.netlify.app/
+🔗 Live Demo: https://future-type-app.netlify.app/
 
 ## Recommended IDE Setup
 
